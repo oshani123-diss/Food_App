@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cart">Shopping Cart</string>
+    <string name="name">Chicken Burger</string>
+    <string name="price">Rs.50.20</string>
+    <string name="quantity">Quantity    + 1 -</string>
+    <string name="add">Shopping Address</string>
+    <string name="namee">Oshani</string>
+    <string name="address">Wagapitiya,Balangoda</string>
+    <string name="userName">Oshani Vinodya</string>
+    <string name="contact">0773274251</string>
+    <string name="sum">Sub Total</string>
+    <string name="summ">Sub Total Rs.278.00</string>
+    <string name="summm">Sub Total Rs.50.00</string>
+    <string name="total">Sub Total Rs.50.20</string>
+    <string name="Total">Total                 Rs.70.20</string>
+    <string name="ship">Shipping Cost    Rs.20.00</string>
+    <string name="btn">Place An Order</string>
+    <string name="checkout">Checkout</string>
+    <string name="foodName">Burger King</string>
+    <string name="FoodName">Chicken Burger</string>
+    <string name="FoodName2">Egg Sausage Burger</string>
+    <string name="btn2">Continue</string>
+    <string name="description">burger</string>
+    <string name="detail">Shipping Address</string>
+</resources>
